@@ -1,0 +1,34 @@
+{
+  "_comment": [
+    "The three Water Framework Directive guidance documents used as the corpus.",
+    "They are public EU and UKTAG publications and are not redistributed in this repository.",
+    "Run `python scripts/fetch_corpus.py` to download them into corpus/pdfs/.",
+    "Checksums are recorded on first fetch via `--write-checksums`, after which",
+    "subsequent fetches verify against them."
+  ],
+  "total_pages": 568,
+  "documents": [
+    {
+      "id": "environmental_standards_phase_2",
+      "title": "Environmental standards phase 2_Final_110309.pdf",
+      "filename": "environmental_standards_phase_2.pdf",
+      "url": "https://www.wfduk.org/sites/default/files/Media/Environmental%20standards/Environmental%20standards%20phase%202_Final_110309.pdf",
+      "sha256": "7c670bdb1599dc4f939b396b048b4b2c3d421ccbcddc6e5bb94f7e261dc1da08"
+    },
+    {
+      "id": "guidance_01_economics_wateco",
+      "title": "Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+      "filename": "guidance_01_economics_wateco.pdf",
+      "url": "https://circabc.europa.eu/sd/a/cffd57cc-8f19-4e39-a79e-20322bf607e1/Guidance%20No%201%20-%20Economics%20-%20WATECO%20(WG%202.6).pdf",
+      "sha256": "def32d327b5d80bcb7b290f33948b37ba5a14e62457b7f64b9ff88cebadc842d",
+      "pages": 274
+    },
+    {
+      "id": "guidance_27_environmental_quality_standards",
+      "title": "Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+      "filename": "guidance_27_environmental_quality_standards.pdf",
+      "url": "https://rvs.rivm.nl/sites/default/files/2019-04/Guidance%20No%2027%20-%20Deriving%20Environmental%20Quality%20Standards%20-%20version%202018.pdf",
+      "sha256": "3cca5c6a8ca68d1facb4d1a7d85d64ab591dc0b98958f9f2cadb4629493d093c"
+    }
+  ]
+}

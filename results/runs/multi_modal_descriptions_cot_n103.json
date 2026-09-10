@@ -1,0 +1,3710 @@
+[
+    {
+        "question_type": "text",
+        "question": "Where are the programmes of measures defined for each basin district?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 9,
+            "answer": "River Basin Management Plans"
+        },
+        "llm_answer": "River Basin Management Plans (RBMPs)",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "51",
+                "score": 0.2853849530220032
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "21",
+                "score": 0.28650349378585815
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "68",
+                "score": 0.28892260789871216
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "8",
+                "score": 0.2901686429977417
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "In the Corfu study on assessing the economic significance of water uses which factor was key?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 24,
+            "answer": "Tourism"
+        },
+        "llm_answer": "Tourism",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "24",
+                "score": 0.2064986526966095
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "22",
+                "score": 0.2511940598487854
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "33",
+                "score": 0.2682054936885834
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "31",
+                "score": 0.26867997646331787
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the overall objective of the Water Framework Directive by 2015?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 7,
+            "answer": "Good water status"
+        },
+        "llm_answer": "Achieving good water status.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "7",
+                "score": 0.20512248575687408
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "25",
+                "score": 0.24819332361221313
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "9",
+                "score": 0.27909207344055176
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "3",
+                "score": 0.2860770523548126
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "When was the Water Framework Directive published in the Official Journal?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 7,
+            "answer": "December 22, 2000"
+        },
+        "llm_answer": "December 22, 2000",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "7",
+                "score": 0.24310925602912903
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "3",
+                "score": 0.3014588952064514
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "62",
+                "score": 0.31063342094421387
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "13",
+                "score": 0.32171526551246643
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the first milestone date for the economic analysis?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 32,
+            "answer": "2004"
+        },
+        "llm_answer": "2004",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "50",
+                "score": 0.31968092918395996
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "39",
+                "score": 0.32455313205718994
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "32",
+                "score": 0.328987181186676
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "21",
+                "score": 0.3470430374145508
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is WATECO an acronym for?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 10,
+            "answer": "WATer and ECOnomics"
+        },
+        "llm_answer": "WAter and ECOnomics",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "59",
+                "score": 0.25019168853759766
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "11",
+                "score": 0.3495349884033203
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "10",
+                "score": 0.4055411219596863
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "162",
+                "score": 0.4604216516017914
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "How many steps are proposed for the economic analysis approach?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 19,
+            "answer": "Three"
+        },
+        "llm_answer": "Three steps.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "119",
+                "score": 0.2636549472808838
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "19",
+                "score": 0.2825969457626343
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "26",
+                "score": 0.2837442457675934
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "20",
+                "score": 0.28395092487335205
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What type of costs should be included according to Article 9?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 13,
+            "answer": "Environmental and resource costs"
+        },
+        "llm_answer": "Financial, resource, environmental costs.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "119",
+                "score": 0.27930015325546265
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "133",
+                "score": 0.3179664611816406
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "78",
+                "score": 0.326617956161499
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "132",
+                "score": 0.34135210514068604
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 3,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "When should water pricing policies provide adequate incentives by?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 8,
+            "answer": "2010"
+        },
+        "llm_answer": "Step 3.4",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "191",
+                "score": 0.2629116177558899
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "184",
+                "score": 0.27584195137023926
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "184",
+                "score": 0.27779391407966614
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "183",
+                "score": 0.28263741731643677
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What must Member States identify by 2003 under Article 3?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 8,
+            "answer": "Competent authorities"
+        },
+        "llm_answer": "River basins and authorities",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "8",
+                "score": 0.3524916172027588
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "37",
+                "score": 0.3673669099807739
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "32",
+                "score": 0.37776750326156616
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "67",
+                "score": 0.3884131610393524
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the maximum number of planning cycles allowed for achieving objectives?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 8,
+            "answer": "Three"
+        },
+        "llm_answer": "12 years",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "18",
+                "score": 0.41008874773979187
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "21",
+                "score": 0.41012275218963623
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "9",
+                "score": 0.4288627505302429
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "20",
+                "score": 0.4384905695915222
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "When must programmes of measures be made operational?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 8,
+            "answer": "2012"
+        },
+        "llm_answer": "2012",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "68",
+                "score": 0.3153536915779114
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "192",
+                "score": 0.33462774753570557
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "16",
+                "score": 0.33875858783721924
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "25",
+                "score": 0.347486674785614
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What must be established for each River Basin District by 2004?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 8,
+            "answer": "Characterization of river basin districts"
+        },
+        "llm_answer": "Characterise river basin districts.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "8",
+                "score": 0.2427864670753479
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "17",
+                "score": 0.29416847229003906
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "37",
+                "score": 0.2957342267036438
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "51",
+                "score": 0.29589760303497314
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What percentage of households in Hungary receive subsidies for water services?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 144,
+            "answer": "More than one third"
+        },
+        "llm_answer": "More than one third.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "143",
+                "score": 0.2627735435962677
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "143",
+                "score": 0.26341819763183594
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "144",
+                "score": 0.30398809909820557
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "138",
+                "score": 0.33991438150405884
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the key concept underlying the Water Framework Directive?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 9,
+            "answer": "Integration"
+        },
+        "llm_answer": "Integration",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "9",
+                "score": 0.1927136480808258
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "7",
+                "score": 0.2142094373703003
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "14",
+                "score": 0.23983292281627655
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "13",
+                "score": 0.2526994049549103
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "In the Directive's Roadmap for economic analysis, what is Step 2?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 19,
+            "answer": "Identifying water bodies not achieving the environmental objective"
+        },
+        "llm_answer": "Identifying water bodies.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "19",
+                "score": 0.24429315328598022
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "21",
+                "score": 0.24964796006679535
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "20",
+                "score": 0.26326051354408264
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "19",
+                "score": 0.282375305891037
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 3,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is proposed To ensure the cost-effectiveness analysis can be performed at a later stage?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 35,
+            "answer": "A cost database"
+        },
+        "llm_answer": "Develop a cost-database.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "16",
+                "score": 0.2704613208770752
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "180",
+                "score": 0.27600717544555664
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "35",
+                "score": 0.2779528796672821
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "46",
+                "score": 0.2791636884212494
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "During the stakeholder-analysis what 3 degrees of involvement are listed?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 88,
+            "answer": "co-operating, co-thinking and co-knowing"
+        },
+        "llm_answer": "Co-operating, co-thinking, co-knowing",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "88",
+                "score": 0.21781599521636963
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "92",
+                "score": 0.285964697599411
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "89",
+                "score": 0.31087058782577515
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "40",
+                "score": 0.32427778840065
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the recommended starting point with pressures have a downstream impact on (surface) water status?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 114,
+            "answer": "Start with the most upstream sub-basin."
+        },
+        "llm_answer": "River basin scale.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "70",
+                "score": 0.28934183716773987
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "113",
+                "score": 0.2908402681350708
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "93",
+                "score": 0.29525017738342285
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "209",
+                "score": 0.30177319049835205
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "How does the Directive define 'costs'",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 119,
+            "answer": "Economic costs to society as a wholes"
+        },
+        "llm_answer": "Economic costs",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "119",
+                "score": 0.2916921377182007
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "19",
+                "score": 0.3242926597595215
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "132",
+                "score": 0.32683855295181274
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "120",
+                "score": 0.33126190304756165
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 3,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "How many Priority Substances are listed in the EQS Directive?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 17,
+            "answer": "45"
+        },
+        "llm_answer": "45 substances",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "3",
+                "score": 0.2645348906517029
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "12",
+                "score": 0.3086608648300171
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "14",
+                "score": 0.3298073410987854
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "13",
+                "score": 0.3406338095664978
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Which ecosystems should EQSs protect?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 18,
+            "answer": "freshwater and marine"
+        },
+        "llm_answer": "Freshwater and marine ecosystems.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "18",
+                "score": 0.2761971354484558
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "13",
+                "score": 0.3167218565940857
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "50",
+                "score": 0.32512420415878296
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "16",
+                "score": 0.32733261585235596
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What salinity is recommended as the cutoff for saltwater EQSs?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 21,
+            "answer": "5\u2030"
+        },
+        "llm_answer": "25",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "38",
+                "score": 0.3035528063774109
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "69",
+                "score": 0.3087952733039856
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "36",
+                "score": 0.3241666555404663
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "53",
+                "score": 0.3326316773891449
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What value of BMF indicates no evidence of biomagnification?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 24,
+            "answer": "BMF<1"
+        },
+        "llm_answer": "BMF \u2264 1",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "170",
+                "score": 0.26037830114364624
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "23",
+                "score": 0.28136348724365234
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "171",
+                "score": 0.2990623712539673
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "198",
+                "score": 0.3117319643497467
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 4,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What should not be used for metals due to non-constant ratios with water concentration?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 24,
+            "answer": "BCF"
+        },
+        "llm_answer": "Total metal concentrations.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "70",
+                "score": 0.37910196185112
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "116",
+                "score": 0.3828885555267334
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "59",
+                "score": 0.38607892394065857
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "63",
+                "score": 0.38959819078445435
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Which H-statement replaced R22?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 25,
+            "answer": "H302"
+        },
+        "llm_answer": "H302",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "116",
+                "score": 0.46038609743118286
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "153",
+                "score": 0.4615876078605652
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "185",
+                "score": 0.4963090419769287
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "182",
+                "score": 0.49888038635253906
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What must be done to biota standards before selecting an overall EQS?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 26,
+            "answer": "Back-calculated to water"
+        },
+        "llm_answer": "Back-calculate to water concentration.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "26",
+                "score": 0.26981621980667114
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "13",
+                "score": 0.27465295791625977
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "95",
+                "score": 0.2759517431259155
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "78",
+                "score": 0.2784658670425415
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Which data types are key inputs to QS derivation?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 26,
+            "answer": "Comprehensive and quality assessed"
+        },
+        "llm_answer": "Aquatic toxicity data.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "112",
+                "score": 0.4147189259529114
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "29",
+                "score": 0.42336931824684143
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "30",
+                "score": 0.42590969800949097
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "38",
+                "score": 0.4273635149002075
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Which taxa are specified for setting water quality standards?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 27,
+            "answer": "algae, macrophytes, Daphnia, fish"
+        },
+        "llm_answer": "Biota",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "190",
+                "score": 0.25589483976364136
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "195",
+                "score": 0.2710525691509247
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "208",
+                "score": 0.29247012734413147
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "115",
+                "score": 0.293969988822937
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Which schemes are mentioned for performing data quality assessment?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 28,
+            "answer": "Klimisch and CRED"
+        },
+        "llm_answer": "Collate and quality assess data",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "263",
+                "score": 0.3419281840324402
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "18",
+                "score": 0.3487784266471863
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "235",
+                "score": 0.3600292205810547
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "108",
+                "score": 0.36055320501327515
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Which scenario is used in 91/414/EEC and 1107/2009 assessments?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 32,
+            "answer": "field margin ditch"
+        },
+        "llm_answer": "Field margin ditch scenario.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "32",
+                "score": 0.31033796072006226
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "157",
+                "score": 0.36787089705467224
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "103",
+                "score": 0.37049224972724915
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "16",
+                "score": 0.37108075618743896
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What does Annex V of the WFD encourage when field data shows the laboratory-based QS is over-protective?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 34,
+            "answer": "use of a reduced AF"
+        },
+        "llm_answer": "Use of a reduced AF.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "34",
+                "score": 0.30072659254074097
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "108",
+                "score": 0.3111162483692169
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "16",
+                "score": 0.3113037347793579
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "13",
+                "score": 0.32081854343414307
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "By what year should the cost-recovery and incentive pricing by be feed into adequate pricing and cost recovery?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 21,
+            "answer": "2010"
+        },
+        "llm_answer": "2004",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "79",
+                "score": 0.31843748688697815
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "38",
+                "score": 0.34098702669143677
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "141",
+                "score": 0.34577691555023193
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "191",
+                "score": 0.34594517946243286
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Who leads the Economic Analysis working group?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 59,
+            "answer": "Jean-Pierre Rideau and Pierre Strosser."
+        },
+        "llm_answer": "European Commission",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "39",
+                "score": 0.35811445116996765
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "45",
+                "score": 0.3734782934188843
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "39",
+                "score": 0.3740135729312897
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "17",
+                "score": 0.3756472170352936
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the Monitoring working group, who is the contact in the UK?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 60,
+            "answer": "Steve Nixon"
+        },
+        "llm_answer": "Steve Nixon",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "61",
+                "score": 0.3811047673225403
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "58",
+                "score": 0.4008983373641968
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "59",
+                "score": 0.42945289611816406
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "60",
+                "score": 0.430916965007782
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the Source for the definition of Register of protected areas?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 74,
+            "answer": "Article 6 (2)"
+        },
+        "llm_answer": "Annex IV",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "190",
+                "score": 0.37201741337776184
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "35",
+                "score": 0.38235968351364136
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "67",
+                "score": 0.3961867094039917
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "22",
+                "score": 0.3967677652835846
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the use values benefit class which category does General Ecosystem support fall under?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 126,
+            "answer": "Indirect use"
+        },
+        "llm_answer": "Indirect use",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "126",
+                "score": 0.305905282497406
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "126",
+                "score": 0.37259647250175476
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "77",
+                "score": 0.4212711453437805
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "236",
+                "score": 0.4236273765563965
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For the illustration estimating cost recovery in the Netherlands what was the interest for water quality management?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 138,
+            "answer": "85"
+        },
+        "llm_answer": "85",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "138",
+                "score": 0.17022985219955444
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "138",
+                "score": 0.20515312254428864
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "135",
+                "score": 0.26080137491226196
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "127",
+                "score": 0.27719277143478394
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the illustration estimating cost recovery in the french west indies, what was the overall total maintenance cost?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 139,
+            "answer": "20,158,607"
+        },
+        "llm_answer": "714,790",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "139",
+                "score": 0.2373276650905609
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "139",
+                "score": 0.2890797257423401
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "138",
+                "score": 0.3122100830078125
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "138",
+                "score": 0.36787891387939453
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "With respect to reporting cost on recovery for which water services are Households not listed as polluters?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 146,
+            "answer": "Irrigation"
+        },
+        "llm_answer": "Households",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "144",
+                "score": 0.29616981744766235
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "137",
+                "score": 0.30725210905075073
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "133",
+                "score": 0.3100329041481018
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "79",
+                "score": 0.3211759328842163
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For which sector(s) is supermarket produce quality a key demand? ",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 154,
+            "answer": "Spray Irrigation demand"
+        },
+        "llm_answer": "Agriculture, households, industry.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "153",
+                "score": 0.4108525514602661
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "209",
+                "score": 0.4121595025062561
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "190",
+                "score": 0.41538721323013306
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "92",
+                "score": 0.42033660411834717
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the time scale for WEAP as a long term thinking exercise is illustration 7?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 162,
+            "answer": "Time horizon flexible"
+        },
+        "llm_answer": "Time horizon flexible.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "162",
+                "score": 0.3640378713607788
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "166",
+                "score": 0.37330111861228943
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "155",
+                "score": 0.397902250289917
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "26",
+                "score": 0.4012950658798218
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For the Agri General binding rule what is the expected km delivered by 2021 according to the Ribble study?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 169,
+            "answer": "14"
+        },
+        "llm_answer": "3 km",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "169",
+                "score": 0.32576921582221985
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "158",
+                "score": 0.36019742488861084
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "205",
+                "score": 0.3704799711704254
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "169",
+                "score": 0.39867568016052246
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the Illustrative result for cost and cost effectiveness in Ribble, What was the cost per km delivered in 2021 for Agri General Binding Rule?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 175,
+            "answer": "4444"
+        },
+        "llm_answer": "14",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "174",
+                "score": 0.3320714235305786
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "203",
+                "score": 0.34638866782188416
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "169",
+                "score": 0.353979229927063
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "169",
+                "score": 0.35524657368659973
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the Cidacos River Basin (Spain) illustration what were the lost wages per 15 Ha?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 178,
+            "answer": "\u20ac593"
+        },
+        "llm_answer": "600 euros",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "115",
+                "score": 0.285044401884079
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "172",
+                "score": 0.3238028287887573
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "178",
+                "score": 0.3340161442756653
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "167",
+                "score": 0.3516228497028351
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 4,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the Vouga river basin illustration what is the marginal price for 6th meters sqaured?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 185,
+            "answer": "0.70"
+        },
+        "llm_answer": "0.30",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "185",
+                "score": 0.316811203956604
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "185",
+                "score": 0.3464387059211731
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "115",
+                "score": 0.3786635398864746
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "190",
+                "score": 0.3823108673095703
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 3,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the Lowland brook dutch water body what measure was designated to achieve GES?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 193,
+            "answer": "Land reclamation"
+        },
+        "llm_answer": "Land reclamation for restoration of stream morphology",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "193",
+                "score": 0.2888573706150055
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "268",
+                "score": 0.3270445466041565
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "193",
+                "score": 0.32913291454315186
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.35183486342430115
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the AST Checlist example what is the option description for Angling",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 201,
+            "answer": "Improved fishery quality from T2 to T1"
+        },
+        "llm_answer": "Identify areas",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "153",
+                "score": 0.5542455911636353
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "51",
+                "score": 0.5622380971908569
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "149",
+                "score": 0.5658036470413208
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "203",
+                "score": 0.568333625793457
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the Corfu Island river basin case study what was the key lesson learnt?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+            "page": 244,
+            "answer": "Low data availability"
+        },
+        "llm_answer": "Low data availability",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "244",
+                "score": 0.3250086307525635
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "115",
+                "score": 0.3320887088775635
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "245",
+                "score": 0.3336336016654968
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "243",
+                "score": 0.33889132738113403
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In which environmental compartment(s) is Pelagic biota a receptor at risk?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 19,
+            "answer": "Water and Biota"
+        },
+        "llm_answer": "Water",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "19",
+                "score": 0.1749812513589859
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "18",
+                "score": 0.23379145562648773
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "192",
+                "score": 0.28228771686553955
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "19",
+                "score": 0.32722634077072144
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 3,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For Bivalves, what Lipid fraction is addressed in risk assessment schemes?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 84,
+            "answer": "1%"
+        },
+        "llm_answer": "1%",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "84",
+                "score": 0.21373912692070007
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "83",
+                "score": 0.30358821153640747
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "114",
+                "score": 0.3107216954231262
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "91",
+                "score": 0.3375225067138672
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For food items used in toxicity tests what os tje moisture fraction for Fish?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 89,
+            "answer": "73.7%"
+        },
+        "llm_answer": "73.7",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "84",
+                "score": 0.2712039351463318
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "79",
+                "score": 0.3208340108394623
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "83",
+                "score": 0.3211861252784729
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "89",
+                "score": 0.337408185005188
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the default value for fraction water in sediment?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 105,
+            "answer": "0.8"
+        },
+        "llm_answer": "0.8",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "105",
+                "score": 0.2967327833175659
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "103",
+                "score": 0.36933982372283936
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "105",
+                "score": 0.37424609065055847
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "104",
+                "score": 0.37598365545272827
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the summary of statistics derived from toxicity studies is an acute test for TLm used in EQS derivation and what is the action?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 156,
+            "answer": "Yes and Tabulate as LC50"
+        },
+        "llm_answer": "Yes, used as LC50.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "144",
+                "score": 0.276904821395874
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "162",
+                "score": 0.3087562322616577
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "38",
+                "score": 0.3090503513813019
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "157",
+                "score": 0.31241270899772644
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Which assessment factor is applied to aquatic toxicity data with one long term result from saltwater crustaceans?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 21,
+            "answer": "1000"
+        },
+        "llm_answer": "1000",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "51",
+                "score": 0.18538892269134521
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "51",
+                "score": 0.20875993371009827
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "91",
+                "score": 0.2172890305519104
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "52",
+                "score": 0.21783876419067383
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Which receptors are at risk in the Sediment environmental compartment?",
+        "ground_truth": {
+            "document": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+            "page": 19,
+            "answer": "Sediment dwelling biota"
+        },
+        "llm_answer": "Sediment dwelling biota",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "19",
+                "score": 0.2205459177494049
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "18",
+                "score": 0.2308545708656311
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "19",
+                "score": 0.2991548180580139
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "192",
+                "score": 0.3006751537322998
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the definition of a shallow lake in meters?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 30,
+            "answer": "3 to 15 meters"
+        },
+        "llm_answer": "3 to 15 meters",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "30",
+                "score": 0.19123992323875427
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "66",
+                "score": 0.3431106209754944
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "70",
+                "score": 0.39000988006591797
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "72",
+                "score": 0.39665552973747253
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the phosphorous level for a High Alkalinity deep lake (Northern)?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 32,
+            "answer": "There are too few lakes of this type."
+        },
+        "llm_answer": "There are too few lakes.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.21304291486740112
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "66",
+                "score": 0.2974192500114441
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.3162187337875366
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.3409822881221771
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 4,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For a High Alkalinity Calcareous lake what is the Conductivity?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 30,
+            "answer": "Greater than 250 to 1000"
+        },
+        "llm_answer": "> 250 to 1000",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.3136630654335022
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "66",
+                "score": 0.33251839876174927
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "30",
+                "score": 0.3342058062553406
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "154",
+                "score": 0.3897615075111389
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "diagram",
+        "question": "The turbidity of the water is in the range 100-300 and the winter mean is less than 180. How should I classify?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 45,
+            "answer": "Good"
+        },
+        "llm_answer": "Medium turbidity",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "41",
+                "score": 0.2773689925670624
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "45",
+                "score": 0.28023451566696167
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "54",
+                "score": 0.287183940410614
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "44",
+                "score": 0.2921341061592102
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the label for a River very high amounts of Salmon?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 22,
+            "answer": "R2"
+        },
+        "llm_answer": "R2",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "22",
+                "score": 0.3844987750053406
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "24",
+                "score": 0.3873438537120819
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "51",
+                "score": 0.3952435851097107
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "40",
+                "score": 0.3954853415489197
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Passed what temperature is Warm Water rivers receiving thermal discharges to be bad?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 26,
+            "answer": "32"
+        },
+        "llm_answer": "23 \u00b0C",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.2887912392616272
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "24",
+                "score": 0.31050533056259155
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "26",
+                "score": 0.32514488697052
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.3256604075431824
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Where and what kind of rivers have failed to comply with the Freshwater Fish Directive?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 28,
+            "answer": "Cool Water Rivers in England"
+        },
+        "llm_answer": "England, cool water.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.32309895753860474
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "23",
+                "score": 0.3274610638618469
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "26",
+                "score": 0.33596527576446533
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "17",
+                "score": 0.34435075521469116
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For a deep lake of low alkalinity, what phosphorus range would be considered good?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 32,
+            "answer": "8-15\u03bcg/l"
+        },
+        "llm_answer": "8-15 \u00b5g/l",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.18120422959327698
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "66",
+                "score": 0.25771382451057434
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.26764070987701416
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.3019511103630066
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "The phosphorous test for a very shallow lake with Moderate Alkalinity came back as 12. What class is it?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 32,
+            "answer": "High"
+        },
+        "llm_answer": "High",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.24841845035552979
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "66",
+                "score": 0.2788475751876831
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.3409445881843567
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.36011767387390137
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For a coastal area, using the OSPAR assessment what is the reference value for a high boundary?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 38,
+            "answer": "13"
+        },
+        "llm_answer": "12\u03bcM",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "36",
+                "score": 0.2860778868198395
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "36",
+                "score": 0.2948629856109619
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "38",
+                "score": 0.319502592086792
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "35",
+                "score": 0.3311889171600342
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In Northern Ireland, how many bodies of water are classified as Moderate?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 40,
+            "answer": "5"
+        },
+        "llm_answer": "5",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "40",
+                "score": 0.25330331921577454
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "42",
+                "score": 0.27206575870513916
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "41",
+                "score": 0.3141527771949768
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.31855422258377075
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In conditions of high turbidity what is the Nitrogen threshold",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 43,
+            "answer": "270"
+        },
+        "llm_answer": "270",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "43",
+                "score": 0.21568059921264648
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "39",
+                "score": 0.25933802127838135
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "44",
+                "score": 0.26978278160095215
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "43",
+                "score": 0.26998060941696167
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In transitional waters likely to support poor status what are daily flows less than in the High Sensitivity type",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 55,
+            "answer": "55% of Qn95"
+        },
+        "llm_answer": "55% of Qn95",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.20586498081684113
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.21409431099891663
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.23210133612155914
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "54",
+                "score": 0.2612355351448059
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the morphology code for Very Shallow lakes of High Alkalinity?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 66,
+            "answer": "HA/M-vS"
+        },
+        "llm_answer": "HA/M-vS",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "66",
+                "score": 0.2577623128890991
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.3014427721500397
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "30",
+                "score": 0.3536180853843689
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "30",
+                "score": 0.366163969039917
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For which lake types would Sediment extraction have the greatest impact?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 71,
+            "answer": "P/LA-vS and P/LA-ShD"
+        },
+        "llm_answer": "P/LA-vS, P/LA-ShD",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "70",
+                "score": 0.3371872007846832
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "68",
+                "score": 0.346756249666214
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "71",
+                "score": 0.3493284285068512
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "76",
+                "score": 0.3616775572299957
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Which coastal water types have Sedimentary as a morphological characteristic?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 74,
+            "answer": "CW7 to CW9 and CW1 to CW6"
+        },
+        "llm_answer": "CW7 to CW9, CW1 to CW6",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "74",
+                "score": 0.24573245644569397
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "76",
+                "score": 0.27899569272994995
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "73",
+                "score": 0.29501503705978394
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "77",
+                "score": 0.29754525423049927
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What water types fall into the Transitional or Coastal category?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 77,
+            "answer": "Lagoon and Sea Loch"
+        },
+        "llm_answer": "Lagoon, Sea Loch",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "54",
+                "score": 0.2951961159706116
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "74",
+                "score": 0.29525506496429443
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "78",
+                "score": 0.30003756284713745
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "77",
+                "score": 0.3005082607269287
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "diagram",
+        "question": "Under what conditions would you classify a TW2 or TW4 as moderate?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 45,
+            "answer": "Winter mean 99 percentile greater than 180"
+        },
+        "llm_answer": "Medium sensitivity",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "45",
+                "score": 0.388386994600296
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.3966812491416931
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "40",
+                "score": 0.4183315634727478
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "54",
+                "score": 0.4216606914997101
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "Which lake type has a Good phosphorus boundary of 33-75?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 32,
+            "answer": "High Alkalinity very shallow (Central)"
+        },
+        "llm_answer": "High Alkalinity very shallow, Central",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.26149457693099976
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.2969900071620941
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.29939866065979004
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.3049476444721222
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "For Transitional Water of salinity 25 what is the High-Good reference value?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 38,
+            "answer": "20"
+        },
+        "llm_answer": "280",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "38",
+                "score": 0.27262377738952637
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "41",
+                "score": 0.27905070781707764
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "39",
+                "score": 0.3096276521682739
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "54",
+                "score": 0.32305485010147095
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "How many scottish water bodies have a Moderate classification with 95% confidence?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 40,
+            "answer": "0"
+        },
+        "llm_answer": "0",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "40",
+                "score": 0.252162903547287
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "42",
+                "score": 0.2951098680496216
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "41",
+                "score": 0.31816333532333374
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "45",
+                "score": 0.32840412855148315
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "In the nitrogen threshold table under different conditions of turbidity what is the range in suspended matter for intermediate to clear?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 43,
+            "answer": "Less than 100"
+        },
+        "llm_answer": "Less than 100",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "43",
+                "score": 0.18125490844249725
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "44",
+                "score": 0.23910483717918396
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "43",
+                "score": 0.2408107966184616
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "41",
+                "score": 0.25186845660209656
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "table",
+        "question": "What is the criteria for identifying Medium Sensitivity transitional water?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 54,
+            "answer": "Ratio of the total Qn95 freshwater inflow between 35 and 60 cubic metres per second"
+        },
+        "llm_answer": "35 - 60",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "54",
+                "score": 0.16594520211219788
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.22261583805084229
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.23840667307376862
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "55",
+                "score": 0.24482594430446625
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What are the two distinct ways by which environmental standards are used?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 11,
+            "answer": "Direct Model and Indirect Model"
+        },
+        "llm_answer": "Direct Model, Indirect Model",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "115",
+                "score": 0.2620641589164734
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "11",
+                "score": 0.27676284313201904
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "12",
+                "score": 0.28067344427108765
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "10",
+                "score": 0.29988664388656616
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What are the five ecological status classes that surface water bodies will be assigned to under the Water Framework Directive?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 13,
+            "answer": "High, good, moderate, poor, and bad"
+        },
+        "llm_answer": "High, good, moderate, poor, bad.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "13",
+                "score": 0.20661185681819916
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "14",
+                "score": 0.21876990795135498
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "15",
+                "score": 0.24370986223220825
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "20",
+                "score": 0.28375208377838135
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "When did the UK agencies begin monitoring and assessing the condition of plants and animal communities using new biological assessment methods?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 13,
+            "answer": "At the end of 2006"
+        },
+        "llm_answer": "2012",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "18",
+                "score": 0.31654077768325806
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "10",
+                "score": 0.32577481865882874
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "16",
+                "score": 0.3344128131866455
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "52",
+                "score": 0.34012413024902344
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What three main areas did the UKTAG's 2004 review cover for rivers, lakes, estuaries and coastal waters?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 13,
+            "answer": "Water quality standards, conditions for water flow and water level, and a framework to support decisions about the structure and condition of beds, banks and shores of water bodies (morphology)"
+        },
+        "llm_answer": "Temperature, nutrients, suspended solids.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "18",
+                "score": 0.24806305766105652
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "6",
+                "score": 0.2494986206293106
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "52",
+                "score": 0.2566452920436859
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "35",
+                "score": 0.2585378885269165
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What does UKTAG rely on for advice when comparing scientific understanding with the Directive's descriptions?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 15,
+            "answer": "Leading independent experts"
+        },
+        "llm_answer": "Intercalibration process.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "7",
+                "score": 0.24065342545509338
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "52",
+                "score": 0.281011700630188
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "6",
+                "score": 0.2867640554904938
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "16",
+                "score": 0.29202309250831604
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "For water bodies in good status, what level of distortion do biological quality elements show from undisturbed conditions?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 15,
+            "answer": "Low levels"
+        },
+        "llm_answer": "Low levels of distortion.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "14",
+                "score": 0.29217013716697693
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "15",
+                "score": 0.30412912368774414
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "70",
+                "score": 0.30676427483558655
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "193",
+                "score": 0.31293147802352905
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What type of assessment method for rivers is mentioned as being built on methods used for many years?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 15,
+            "answer": "Invertebrates assessment"
+        },
+        "llm_answer": "Proposed approach",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "21",
+                "score": 0.3185884356498718
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "244",
+                "score": 0.3324553668498993
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "26",
+                "score": 0.3340553641319275
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "30",
+                "score": 0.33899787068367004
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What must Member States achieve compliance with according to Article 4(1c) of the Water Framework Directive?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 16,
+            "answer": "Standards and objectives specified in community legislation for protected areas"
+        },
+        "llm_answer": "Good water status by 2015.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "8",
+                "score": 0.29114681482315063
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "37",
+                "score": 0.29345887899398804
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "32",
+                "score": 0.29561561346054077
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "7",
+                "score": 0.3077787458896637
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "By what date must UK environment agencies produce the first draft river basin management plans for public consultation?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 17,
+            "answer": "End of 2008"
+        },
+        "llm_answer": "End of 2008.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "17",
+                "score": 0.23108413815498352
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "51",
+                "score": 0.25090137124061584
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "8",
+                "score": 0.26022085547447205
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "18",
+                "score": 0.2918865978717804
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What formal process ensures that boundaries for good status are consistent with the Directive's descriptions across countries?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 18,
+            "answer": "Intercalibration"
+        },
+        "llm_answer": "Intercalibration.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "16",
+                "score": 0.34054869413375854
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "19",
+                "score": 0.3408970236778259
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "12",
+                "score": 0.34547001123428345
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "13",
+                "score": 0.35354849696159363
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What are the three groups of surface water standards and conditions mentioned in the text?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 19,
+            "answer": "Physico-chemical, hydrological, and morphological"
+        },
+        "llm_answer": "General water quality, Water resources, Physical structure",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "9",
+                "score": 0.271663099527359
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "20",
+                "score": 0.27853477001190186
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "44",
+                "score": 0.27971410751342773
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "190",
+                "score": 0.2899487614631653
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the difference between condition limits and environmental standards in terms of risk to good status?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 20,
+            "answer": "Condition limits indicate risk of threat while environmental standards indicate risk of failure"
+        },
+        "llm_answer": "Condition limits indicate risk threatened.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "11",
+                "score": 0.3051809072494507
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "59",
+                "score": 0.31015318632125854
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "19",
+                "score": 0.32437044382095337
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "15",
+                "score": 0.3252328038215637
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 2,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "By how much may mean annual temperatures increase by 2050 due to climate change?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 21,
+            "answer": "1-2\u00b0C"
+        },
+        "llm_answer": "1-2\u00b0C",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "26",
+                "score": 0.38852453231811523
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "21",
+                "score": 0.39601796865463257
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "155",
+                "score": 0.3987612724304199
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.4129810631275177
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "How frequently are typical routine temperature measurements taken during chemical sampling?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 21,
+            "answer": "Monthly"
+        },
+        "llm_answer": "Monthly samples.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "21",
+                "score": 0.36452940106391907
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "180",
+                "score": 0.37564539909362793
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.3970053195953369
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "117",
+                "score": 0.41254258155822754
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the Directive's temperature limit for a rise in shellfish waters?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 24,
+            "answer": "2\u00b0C"
+        },
+        "llm_answer": "2\u00baC limit",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "24",
+                "score": 0.195660799741745
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.26481860876083374
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "24",
+                "score": 0.2811570167541504
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "27",
+                "score": 0.2913843095302582
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What observation contradicts concerns about the 2\u00b0C temperature limit near power stations?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 25,
+            "answer": "Natural establishment of clam and oyster beds"
+        },
+        "llm_answer": "None",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.3625996708869934
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "24",
+                "score": 0.3793419599533081
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.39137130975723267
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "27",
+                "score": 0.3973785638809204
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 1,
+        "document_retrieved": 0,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What temperature range defines a fish's 'niche' according to the text?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 26,
+            "answer": "Within 2\u00b0C of a preferred temperature"
+        },
+        "llm_answer": "\u00b12\u00b0C of preferred temperature",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "26",
+                "score": 0.26080751419067383
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "25",
+                "score": 0.3143808841705322
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "23",
+                "score": 0.31754207611083984
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "23",
+                "score": 0.319084495306015
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "When will the proposed Water Framework Directive standards replace the Directives on Freshwater Fish and Shellfish Waters?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 26,
+            "answer": "2013"
+        },
+        "llm_answer": "2013",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "26",
+                "score": 0.26586177945137024
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 01 - Economics - WATECO (WG 2.6).pdf",
+                "page": "7",
+                "score": 0.28270721435546875
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "3",
+                "score": 0.2839139699935913
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "13",
+                "score": 0.2880382537841797
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the proposed maximum temperature uplift limit for waters of high ecological status?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 27,
+            "answer": "2\u00b0C"
+        },
+        "llm_answer": "2\u00b0C uplift limit",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "27",
+                "score": 0.19896817207336426
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "24",
+                "score": 0.2828156650066376
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "81",
+                "score": 0.2929917573928833
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "26",
+                "score": 0.2968291640281677
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "Above what temperature rise did the UKTAG find evidence of thermal barriers in rivers and estuaries?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 27,
+            "answer": "3\u00b0C"
+        },
+        "llm_answer": "More than 3\u00b0C.",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "25",
+                "score": 0.27198946475982666
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "28",
+                "score": 0.2799818813800812
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "27",
+                "score": 0.2799960970878601
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "45",
+                "score": 0.28025272488594055
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What form of phosphorus measurement is used as the standard for lakes?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 29,
+            "answer": "Mean annual concentration of total phosphorus"
+        },
+        "llm_answer": "Total phosphorus",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.21674543619155884
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.21879681944847107
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.23572401702404022
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "30",
+                "score": 0.27324360609054565
+            }
+        ],
+        "llm_correct": "N",
+        "llm_similarity": 3,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What two factors does the model use to reflect the availability of background phosphorus to affect ecology?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 31,
+            "answer": "Geographic location and alkalinity"
+        },
+        "llm_answer": "Geographic location, alkalinity",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.2967262864112854
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.342964231967926
+            },
+            {
+                "file_path": "(0 Very Good) Guidance No 27 - Deriving Environmental Quality Standards - version 2018-1.pdf",
+                "page": "171",
+                "score": 0.3434194326400757
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.3481573462486267
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "What is the minimum total phosphorus level for the good boundary according to the override?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 31,
+            "answer": "8\u03bcg/l"
+        },
+        "llm_answer": "8 \u00b5g/l",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.3307250738143921
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.3354622423648834
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.3374662399291992
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "36",
+                "score": 0.3429268002510071
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    },
+    {
+        "question_type": "text",
+        "question": "For which type of lakes are the standards based on the relationship between phosphorus and macrophyte taxonomic composition?",
+        "ground_truth": {
+            "document": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+            "page": 31,
+            "answer": "Lakes on limestone"
+        },
+        "llm_answer": "Limestone lakes",
+        "rag_docs": [
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "32",
+                "score": 0.2275380790233612
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "31",
+                "score": 0.23126399517059326
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "29",
+                "score": 0.23727509379386902
+            },
+            {
+                "file_path": "(0 Very Good) Environmental standards phase 2_Final_110309.pdf",
+                "page": "30",
+                "score": 0.2714692950248718
+            }
+        ],
+        "llm_correct": "Y",
+        "llm_similarity": 5,
+        "document_retrieved": 1,
+        "human_eval_correct": null
+    }
+]

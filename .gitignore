@@ -1,0 +1,18 @@
+# Corpus and derived artefacts — regenerated via scripts/
+corpus/pdfs/
+corpus/page_images/
+vector_stores/
+colpali_lancedbs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.egg-info/
+
+# Environment
+.env
+
+# OS
+.DS_Store

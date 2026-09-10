@@ -1,0 +1,33 @@
+# Core RAG stack
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-chroma
+openai
+
+# Vector stores
+lancedb
+
+# ColPali (image-based retrieval) — requires GPU
+colpali-engine
+torch
+
+# PDF and image processing
+pymupdf4llm
+pdf2image
+pillow
+opencv-python
+
+# GPU service (Colab)
+fastapi
+uvicorn
+pyngrok
+nest-asyncio
+requests
+
+# Misc
+python-dotenv
+pydantic
+numpy
+matplotlib
